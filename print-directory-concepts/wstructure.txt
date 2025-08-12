@@ -1,0 +1,8 @@
+📁root
+  📁folder1
+    📄file1.txt
+    📄file2.txt
+  📁folder2
+    📁subfolder1
+      📄file3.txt
+  📄file4.txt
