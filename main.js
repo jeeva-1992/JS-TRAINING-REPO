@@ -7,4 +7,5 @@
 //import{} from './object-key-coercion.js'
 //import {} from './Flattern-nested-array.js'
 //import {} from './arrayofobj-to-singleobj.js';
-import {} from './js-array-operations/.js'
+import {} from './js-array-operations/all-duplicate-operations.js'
+//import {} from './print-1-100-with1sec.js'
